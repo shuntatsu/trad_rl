@@ -1,7 +1,7 @@
 # myproject
-.logs
-.model
-.data
+logs/
+model/
+data/
 
 # vscode
 .vscode/*
