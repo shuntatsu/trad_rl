@@ -1,0 +1,4 @@
+tensorboard --logdir logs/
+
+
+python -m kline.data

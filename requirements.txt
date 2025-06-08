@@ -1,0 +1,1 @@
+ta-lib @ file:///C:/my_program/auto-trading/trade/ta_lib-0.6.3-cp313-cp313-win_amd64.whl#sha256=2041615b4181c3effc89e270e450e69f16aa04b5b02ab5531e6530f9b2d2528b
